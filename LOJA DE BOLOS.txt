@@ -1,0 +1,104 @@
+﻿LOJA DE BOLOS
+
+
+GRUPO: Ana Beatriz Carulla
+             Camila Yasmin Martins
+             Carolina Thomaz Ferreira
+
+
+Introdução
+A aplicação consiste em receber, na entrada, uma certa quantidade de pedidos, e imprimir na tela o pedido já feito. Os pedidos são armazenados em uma lista duplamente encadeada, com sentinela e circular. A montagem dos pedidos, por sua vez, é feita com o uso de uma pilha de alocação dinâmica e sequencial.
+
+
+Entradas
+        Primeiramente, será apresentado na tela uma mensagem de boas-vindas, a qual pede a quantidade de pedidos a serem feitos, 0 < n <= 50. Caso o número seja inválido, o valor será pedido novamente.
+        Após isso, será pedido, em sequência, a montagem de cada pedido, apresentando na tela as opções e pedindo para o usuário selecionar dentre elas.
+
+
+Saída
+        Na tela, aparecerá uma “caixa” contendo o bolo formado em cada pedido.
+
+
+Exemplo
+
+
+Terminal de Saída
+	Entradas
+	Ola! Seja bem vindo(a) a nossa loja de bolos! Quantos pedidos gostaria de fazer?
+
+
+Vamos escolher o pedido de numero 1!
+Sabores de bases para bolo disponiveis:
+1. Chocolate -> digite C
+2. Baunilha -> digite B
+3. Red Velvet -> digite R
+
+
+Sabores de cobertura para bolo disponiveis:
+1. Brigadeiro -> digite B
+2. Prestigio -> digite P
+3. Morango -> digite M
+4. Ninho -> digite N
+
+
+Nao trabalhamos com o sabor de cobertura escolhido! Por favor, escolha outro!
+
+
+Enfeites para bolo disponiveis:
+1. Granulado -> digite G
+2. Chantilly -> digite C
+3. Pasta americana -> digite P
+
+
+O bolo de numero 1 esta pronto! Aproveite!!
+-----------------
+GRANULADO
+PRESTIGIO
+CHOCOLATE
+-----------------
+Todos os pedidos foram entregues!
+
+
+
+
+	
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+C
+
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+P
+
+
+
+
+
+
+
+
+G
